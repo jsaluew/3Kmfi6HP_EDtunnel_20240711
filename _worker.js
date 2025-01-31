@@ -872,4 +872,4 @@ const cn_hostnames = [
 	//'cn.chinadaily.com.cn',
 	//'www.gmw.cn',
 	//'www.kugou.com',
-	];
+];
