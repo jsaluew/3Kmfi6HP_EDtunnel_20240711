@@ -867,7 +867,7 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	//'tv.cctv.com',
+	//'www.aipai.com',
 	//'www.cri.cn',
 	//'cn.chinadaily.com.cn',
 	//'www.gmw.cn',
